@@ -1,7 +1,7 @@
 # NYU-RM
 Robomaster Plate Detection
 
-This project is a armor plate locator pipeline in the context of the Robomaster competition.
+Facilitate Auto-aim for target shooting by real-time tracking of enemy robots’ armor plates.
 
 An object detection model is used to detect the armor plates on the robots inorder to attack the enemy robots.
 
